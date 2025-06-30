@@ -1,2 +1,4 @@
-# sugarlump-street-sweets
-Sugarlump AR Street Sweets Kindness Project
+Sugarlump Augmented Reality
+
+Street Sweets
+
